@@ -1,0 +1,15 @@
+{
+    "jsonObj": [
+        {
+            "name": "OS",
+            "pricipal": "Someone",
+            "Students": [
+                {
+                    "rno": 12,
+                    "name": "Thanks Kunal Kuswaha",
+                    "marks":67
+                }
+            ]
+        }
+    ]
+}
